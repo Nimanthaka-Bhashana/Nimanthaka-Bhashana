@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nimanthaka Bhashana</h1>
-<img align="center" alt="banner" width="1000" height="450"src="https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=612x612&w=0&k=20&c=LLywtLnfu5FETIvkaFjy_xcHnaIGmaKZYxcPKAoyPcA=">
+<img align="center" alt="banner" width="800" height="250"src="https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=612x612&w=0&k=20&c=LLywtLnfu5FETIvkaFjy_xcHnaIGmaKZYxcPKAoyPcA=">
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimanthaka-bhashana&label=Profile%20views&color=0e75b6&style=flat" alt="nimanthaka-bhashana" /> </p>
